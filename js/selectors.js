@@ -18,4 +18,4 @@ function imageSelector(){
 }
 
 function checkboxInputSelector
-return $('[alt= ""]')
+return $('[alt= "input"]')
