@@ -17,5 +17,6 @@ function imageSelector(){
   //(img[alt="5 copy_200comp.jpg"])
 }
 
-function checkboxInputSelector
+function checkboxInputSelector(){
 return $('input[type="checkbox"]')
+}
