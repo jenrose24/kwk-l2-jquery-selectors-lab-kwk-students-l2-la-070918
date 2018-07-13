@@ -13,6 +13,6 @@ function linkSelector(){
 }
 
 function imageSelector(){
-  
+  return (img[alt="cat sleeping"])
   //(img[alt="5 copy_200comp.jpg"])
 }
